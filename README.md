@@ -11,4 +11,4 @@
 
 ## Demo
 
-[text](https://snapchat-rho-sand.vercel.app/chat/65ec7cd6e062cf20d1697415)
+[SnapChat Web](https://snapchat-rho-sand.vercel.app/chat/65ec7cd6e062cf20d1697415)
